@@ -1,3 +1,3 @@
-# participant_vba
+# participant_vba VERSION 2
 
-Attendance for participants
+Attendance for participants update
