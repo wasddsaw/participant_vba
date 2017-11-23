@@ -1,3 +1,3 @@
-# participant_vba
+# ionic workshop - 24/11/2017
 
-Attendance for participants
+Attendance for participants version 3
